@@ -1,0 +1,201 @@
+Ítem,Fecha,Producto,Categoría,Cantidad,Precio_Unit,Región
+1,2024-12-29,Arroz,Alimentos,10,"3,5",Lima
+2,2024-03-09,Azúcar,Alimentos,5,"2,8",Arequipa
+3,2024-01-27,Leche,Lácteos,10,"4,2",Cusco
+4,2024-09-17,Pan,Panadería,3,"0,5",Piura
+5,2024-10-16,Pollo,Carnes,6,7,Trujillo
+6,2024-06-10,Manzana,Frutas,8,"2,5",Lima
+7,2024-09-02,Zanahoria,Verduras,10,"1,8",Arequipa
+8,2024-05-06,Papa,Tubérculos,6,"1,5",Cusco
+9,2024-02-17,Queso,Lácteos,6,5,Piura
+10,2024-01-20,Yogur,Lácteos,2,3,Trujillo
+11,2024-12-25,Café,Bebidas,3,8,Lima
+12,2024-10-30,Té,Bebidas,9,2,Arequipa
+13,2024-09-20,Jugo de Naranja,Bebidas,4,"3,5",Cusco
+14,2024-04-20,Galletas,Snacks,9,"1,2",Piura
+15,2024-11-24,Chocolate,Dulces,10,"2,5",Trujillo
+16,2024-12-12,Detergente,Limpieza,8,6,Lima
+17,2024-04-09,Shampoo,Higiene,1,10,Arequipa
+18,2024-04-15,Papel Higiénico,Higiene,10,"1,5",Cusco
+19,2024-04-28,Pasta Dental,Higiene,2,3,Piura
+20,2024-06-20,Aceite Vegetal,Alimentos,2,"5,5",Trujillo
+21,2024-10-21,Mantequilla,Lácteos,10,4,Lima
+22,2024-12-26,Jamón,Embutidos,9,"6,5",Arequipa
+23,2024-12-03,Atún enlatado,Conservas,3,"7,2",Cusco
+24,2024-01-18,Gaseosa,Bebidas,1,"2,5",Piura
+25,2024-08-23,Cerveza,Bebidas,2,4,Trujillo
+26,2024-01-05,Vino,Bebidas,4,15,Lima
+27,2024-02-07,Lentejas,Legumbres,9,3,Arequipa
+28,2024-12-06,Garbanzos,Legumbres,6,"3,2",Cusco
+29,2024-11-12,Espinaca,Verduras,6,2,Piura
+30,2024-06-19,Plátano,Frutas,4,"1,8",Trujillo
+31,2024-01-19,Arroz,Alimentos,1,"3,51",Arequipa
+32,2024-03-29,Azúcar,Alimentos,8,"2,81",Cusco
+33,2024-10-02,Leche,Lácteos,7,"4,21",Piura
+34,2024-12-07,Pan,Panadería,7,"0,51",Trujillo
+35,2024-05-05,Pollo,Carnes,7,"7,01",Lima
+36,2024-05-12,Manzana,Frutas,3,"2,51",Arequipa
+37,2024-09-06,Zanahoria,Verduras,6,"1,2",Cusco
+38,2024-02-09,Papa,Tubérculos,4,"1,1",Piura
+39,2024-09-21,Queso,Lácteos,10,"5,01",Trujillo
+40,2024-03-02,Yogur,Lácteos,1,"3,01",Arequipa
+41,2024-10-11,Café,Bebidas,7,"8,01",Cusco
+42,2024-10-14,Té,Bebidas,7,"2,01",Piura
+43,2024-02-08,Jugo de Naranja,Bebidas,9,"3,51",Trujillo
+44,2024-07-07,Galletas,Snacks,6,"1,21",Lima
+45,2024-08-16,Chocolate,Dulces,8,"2,51",Arequipa
+46,2024-11-11,Detergente,Limpieza,10,"6,01",Cusco
+47,2024-04-03,Shampoo,Higiene,10,"10,01",Piura
+48,2024-11-25,Papel Higiénico,Higiene,6,"1,51",Trujillo
+49,2024-08-04,Pasta Dental,Higiene,4,"3,01",Arequipa
+50,2024-01-03,Aceite Vegetal,Alimentos,3,"5,51",Cusco
+51,2024-08-18,Mantequilla,Lácteos,6,"4,01",Piura
+52,2024-09-16,Jamón,Embutidos,6,"6,51",Trujillo
+53,2024-11-11,Atún enlatado,Conservas,2,"7,21",Lima
+54,2024-11-21,Gaseosa,Bebidas,3,"2,51",Arequipa
+55,2024-01-17,Cerveza,Bebidas,8,"4,01",Cusco
+56,2024-07-01,Vino,Bebidas,6,"15,01",Piura
+57,2024-12-13,Lentejas,Legumbres,4,"3,4",Trujillo
+58,2024-06-20,Garbanzos,Legumbres,7,"3,6",Arequipa
+59,2024-07-06,Espinaca,Verduras,9,"2,01",Cusco
+60,2024-05-16,Plátano,Frutas,6,"1,81",Piura
+61,2024-04-01,Arroz,Alimentos,1,"3,52",Trujillo
+62,2024-12-19,Azúcar,Alimentos,5,"2,82",Lima
+63,2024-09-02,Leche,Lácteos,4,"4,22",Arequipa
+64,2024-03-05,Pan,Panadería,7,"0,52",Cusco
+65,2024-03-02,Pollo,Carnes,3,"7,02",Piura
+66,2024-10-16,Manzana,Frutas,2,"2,52",Trujillo
+67,2024-11-21,Zanahoria,Verduras,3,"1,4",Arequipa
+68,2024-03-23,Papa,Tubérculos,5,"1,7",Cusco
+69,2024-11-10,Queso,Lácteos,1,"5,02",Piura
+70,2024-10-10,Yogur,Lácteos,9,"3,02",Trujillo
+71,2024-06-24,Café,Bebidas,9,"8,02",Lima
+72,2024-05-29,Té,Bebidas,6,"2,02",Arequipa
+73,2024-12-21,Jugo de Naranja,Bebidas,7,"3,52",Cusco
+74,2024-09-28,Galletas,Snacks,9,"1,22",Piura
+75,2024-12-15,Chocolate,Dulces,10,"2,52",Trujillo
+76,2024-11-28,Detergente,Limpieza,10,"6,02",Arequipa
+77,2024-09-11,Shampoo,Higiene,9,"10,02",Cusco
+78,2024-08-23,Papel Higiénico,Higiene,3,"1,52",Piura
+79,2024-03-10,Pasta Dental,Higiene,8,"3,02",Trujillo
+80,2024-03-22,Aceite Vegetal,Alimentos,1,"5,52",Lima
+81,2024-06-25,Mantequilla,Lácteos,7,"4,02",Arequipa
+82,2024-05-30,Jamón,Embutidos,7,"6,52",Cusco
+83,2024-08-20,Atún enlatado,Conservas,2,"7,22",Piura
+84,2024-11-23,Gaseosa,Bebidas,3,"2,52",Trujillo
+85,2024-07-08,Cerveza,Bebidas,8,"4,02",Arequipa
+86,2024-04-08,Vino,Bebidas,5,"15,02",Cusco
+87,2024-03-20,Lentejas,Legumbres,5,"3,8",Piura
+88,2024-09-21,Garbanzos,Legumbres,4,"3,1",Trujillo
+89,2024-08-11,Espinaca,Verduras,7,"2,02",Lima
+90,2024-02-19,Plátano,Frutas,1,"1,82",Arequipa
+91,2024-03-13,Arroz,Alimentos,8,"3,53",Cusco
+92,2024-07-06,Azúcar,Alimentos,1,"2,83",Piura
+93,2024-03-12,Leche,Lácteos,8,"4,23",Trujillo
+94,2024-08-24,Pan,Panadería,1,"0,53",Arequipa
+95,2024-05-29,Pollo,Carnes,2,"7,03",Cusco
+96,2024-12-19,Manzana,Frutas,2,"2,53",Piura
+97,2024-03-05,Zanahoria,Verduras,10,"1,1",Trujillo
+98,2024-11-04,Papa,Tubérculos,1,"1,13",Lima
+99,2024-06-05,Queso,Lácteos,9,"5,03",Arequipa
+100,2024-02-05,Yogur,Lácteos,8,"3,03",Cusco
+101,2024-12-26,Café,Bebidas,4,"8,03",Piura
+102,2024-05-31,Té,Bebidas,7,"2,03",Trujillo
+103,2024-06-15,Jugo de Naranja,Bebidas,9,"3,53",Arequipa
+104,2024-08-31,Galletas,Snacks,10,"1,23",Cusco
+105,2024-08-06,Chocolate,Dulces,8,"2,53",Piura
+106,2024-02-04,Detergente,Limpieza,6,"6,03",Trujillo
+107,2024-02-29,Shampoo,Higiene,2,"10,03",Lima
+108,2024-03-07,Papel Higiénico,Higiene,2,"1,53",Arequipa
+109,2024-12-15,Pasta Dental,Higiene,3,"3,03",Cusco
+110,2024-12-16,Aceite Vegetal,Alimentos,4,"5,53",Piura
+111,2024-03-29,Mantequilla,Lácteos,2,"4,03",Trujillo
+112,2024-04-05,Jamón,Embutidos,6,"6,53",Arequipa
+113,2024-03-27,Atún enlatado,Conservas,3,"7,23",Cusco
+114,2024-01-15,Gaseosa,Bebidas,1,"2,53",Piura
+115,2024-03-09,Cerveza,Bebidas,4,"4,03",Trujillo
+116,2024-04-26,Vino,Bebidas,8,"15,03",Lima
+117,2024-03-18,Lentejas,Legumbres,8,"3,12",Arequipa
+118,2024-11-10,Garbanzos,Legumbres,10,"3,14",Cusco
+119,2024-05-21,Espinaca,Verduras,10,"2,03",Piura
+120,2024-12-02,Plátano,Frutas,9,"1,83",Trujillo
+121,2024-09-04,Arroz,Alimentos,10,"3,54",Arequipa
+122,2024-05-08,Azúcar,Alimentos,4,"2,84",Cusco
+123,2024-05-12,Leche,Lácteos,3,"4,24",Piura
+124,2024-03-07,Pan,Panadería,3,"0,54",Trujillo
+125,2024-11-07,Pollo,Carnes,10,"7,04",Lima
+126,2024-01-23,Manzana,Frutas,7,"2,54",Arequipa
+127,2024-07-31,Zanahoria,Verduras,1,"1,16",Cusco
+128,2024-10-22,Papa,Tubérculos,6,"1,19",Piura
+129,2024-10-27,Queso,Lácteos,8,"5,04",Trujillo
+130,2024-02-14,Yogur,Lácteos,7,"3,04",Arequipa
+131,2024-11-30,Café,Bebidas,1,"8,04",Cusco
+132,2024-12-04,Té,Bebidas,3,"2,04",Piura
+133,2024-03-24,Jugo de Naranja,Bebidas,7,"3,54",Trujillo
+134,2024-02-02,Galletas,Snacks,9,"1,24",Lima
+135,2024-12-19,Chocolate,Dulces,8,"2,54",Arequipa
+136,2024-04-10,Detergente,Limpieza,4,"6,04",Cusco
+137,2024-01-28,Shampoo,Higiene,5,"10,04",Piura
+138,2024-04-20,Papel Higiénico,Higiene,7,"1,54",Trujillo
+139,2024-02-22,Pasta Dental,Higiene,1,"3,04",Arequipa
+140,2024-05-02,Aceite Vegetal,Alimentos,7,"5,54",Cusco
+141,2024-09-22,Mantequilla,Lácteos,10,"4,04",Piura
+142,2024-07-01,Jamón,Embutidos,7,"6,54",Trujillo
+143,2024-06-01,Atún enlatado,Conservas,3,"7,24",Lima
+144,2024-10-01,Gaseosa,Bebidas,5,"2,54",Arequipa
+145,2024-07-30,Cerveza,Bebidas,3,"4,04",Cusco
+146,2024-12-12,Vino,Bebidas,2,"15,04",Piura
+147,2024-01-27,Lentejas,Legumbres,8,"3,16",Trujillo
+148,2024-12-13,Garbanzos,Legumbres,5,"3,18",Arequipa
+149,2024-11-01,Espinaca,Verduras,5,"2,04",Cusco
+150,2024-08-01,Plátano,Frutas,2,"1,84",Piura
+151,2024-12-02,Arroz,Alimentos,9,"3,55",Trujillo
+152,2024-12-13,Azúcar,Alimentos,9,"2,85",Lima
+153,2024-07-22,Leche,Lácteos,6,"4,25",Arequipa
+154,2024-05-01,Pan,Panadería,10,"0,55",Cusco
+155,2024-12-29,Pollo,Carnes,3,"7,05",Piura
+156,2024-07-07,Manzana,Frutas,3,"2,55",Trujillo
+157,2024-07-12,Zanahoria,Verduras,4,"1,22",Arequipa
+158,2024-01-26,Papa,Tubérculos,5,"1,25",Cusco
+159,2024-02-22,Queso,Lácteos,4,"5,05",Piura
+160,2024-08-22,Yogur,Lácteos,10,"3,05",Trujillo
+161,2024-04-20,Café,Bebidas,6,"8,05",Lima
+162,2024-02-18,Té,Bebidas,1,"2,05",Arequipa
+163,2024-05-02,Jugo de Naranja,Bebidas,7,"3,55",Cusco
+164,2024-11-11,Galletas,Snacks,7,"1,25",Piura
+165,2024-05-25,Chocolate,Dulces,7,"2,55",Trujillo
+166,2024-05-19,Detergente,Limpieza,5,"6,05",Arequipa
+167,2024-10-21,Shampoo,Higiene,9,"10,05",Cusco
+168,2024-04-25,Papel Higiénico,Higiene,1,"1,55",Piura
+169,2024-06-25,Pasta Dental,Higiene,5,"3,05",Trujillo
+170,2024-11-24,Aceite Vegetal,Alimentos,2,"5,55",Lima
+171,2024-08-31,Mantequilla,Lácteos,3,"4,05",Arequipa
+172,2024-01-15,Jamón,Embutidos,5,"6,55",Cusco
+173,2024-05-15,Atún enlatado,Conservas,1,"7,25",Piura
+174,2024-10-05,Gaseosa,Bebidas,8,"2,55",Trujillo
+175,2024-09-10,Cerveza,Bebidas,6,"4,05",Arequipa
+176,2024-01-28,Vino,Bebidas,4,"15,05",Cusco
+177,2024-10-25,Lentejas,Legumbres,6,"3,2",Piura
+178,2024-02-15,Garbanzos,Legumbres,8,"3,22",Trujillo
+179,2024-07-16,Espinaca,Verduras,4,"2,05",Lima
+180,2024-06-10,Plátano,Frutas,1,"1,85",Arequipa
+181,2024-01-27,Arroz,Alimentos,4,"3,56",Cusco
+182,2024-09-15,Azúcar,Alimentos,1,"2,86",Piura
+183,2024-08-21,Leche,Lácteos,6,"4,26",Trujillo
+184,2024-03-11,Pan,Panadería,1,"0,56",Arequipa
+185,2024-01-12,Pollo,Carnes,6,"7,06",Cusco
+186,2024-02-17,Manzana,Frutas,10,"2,56",Piura
+187,2024-12-08,Zanahoria,Verduras,9,"1,28",Trujillo
+188,2024-09-13,Papa,Tubérculos,8,"1,31",Lima
+189,2024-05-28,Queso,Lácteos,4,"5,06",Arequipa
+190,2024-03-01,Yogur,Lácteos,4,"3,06",Cusco
+191,2024-09-06,Café,Bebidas,1,"8,06",Piura
+192,2024-01-23,Té,Bebidas,6,"2,06",Trujillo
+193,2024-05-06,Jugo de Naranja,Bebidas,9,"3,56",Arequipa
+194,2024-11-12,Galletas,Snacks,3,"1,26",Cusco
+195,2024-04-04,Chocolate,Dulces,4,"2,56",Piura
+196,2024-04-11,Detergente,Limpieza,6,"6,06",Trujillo
+197,2024-11-16,Shampoo,Higiene,9,"10,06",Lima
+198,2024-08-14,Papel Higiénico,Higiene,10,"1,56",Arequipa
+199,2024-07-16,Pasta Dental,Higiene,4,"3,06",Cusco
+200,2024-02-14,Aceite Vegetal,Alimentos,10,"5,56",Piura
